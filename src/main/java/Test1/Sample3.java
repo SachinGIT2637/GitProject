@@ -9,5 +9,7 @@ public class Sample3 {
 		System.out.println("Test Code 4");
 		System.out.println("Test Code 5");
 		System.out.println("Test Code 6");
+		System.out.println("Test Code 7");
+		System.out.println("Test Code 8");
 	}
 }
