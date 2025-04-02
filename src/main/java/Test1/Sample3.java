@@ -13,5 +13,8 @@ public class Sample3 {
 		System.out.println("Test Code 8");
 		System.out.println("Test Code 9");
 		System.out.println("Test Code 10");
+		System.out.println("Test Code 11");
+		System.out.println("Test Code 12");
+		System.out.println("Test Code 13");
 	}
 }
